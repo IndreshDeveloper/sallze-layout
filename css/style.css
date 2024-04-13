@@ -114,7 +114,7 @@ padding: 20px 0;visibility: hidden;opacity: 0;left: -100%;border-radius: 5px;}
 #banner{width: 100%;background-image: url(../images/banner-bg.png);background-repeat: no-repeat;background-size: cover;padding-top: 180px;padding-bottom: 71px;}
 .right-block{position: relative;top: 0;left: 140px;}
 .right-block img{width: 100%;}
-.banner-main-block{gap: 20px;flex-wrap: wrap;}
+.banner-main-block{gap: 20px;}
 .banner-box-col{width: calc(50% - 10px);}
 .right-block{width: 65%;}
 .banner-box-col h3{text-transform: uppercase;letter-spacing: 2px;color: var(--white-color);font-size: 20px;}
